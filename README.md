@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burcuarslan&label=Profile%20views&color=0e75b6&style=flat" alt="burcuarslan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burcuarslan" alt="burcuarslan" /></a> </p>
-
 - 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **burcuarslln@gmail.com**
